@@ -1,12 +1,17 @@
 # Purple Twilight
 
-![](https://img.shields.io/badge/AMO_listing_status-awaiting_review-yellow)
+![](https://img.shields.io/badge/AMO_listing_status-Approved-green)
 
 ![preview image](/images/purple-twilight-theme-preview.png)
 
 A mod of the [Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/) for Firefox by [breuxi](https://addons.mozilla.org/en-US/firefox/user/16198217/) - for the same pretty colours, but without the twinkling stars for a more minimal look.
 
-## Setup
+Get this theme for 🔥🦊 (Firefox) from the [Firefox Addons page](https://addons.mozilla.org/en-US/firefox/addon/purple-twilight-theme/)
+
+<br/>
+</br>
+
+## Contributing/Modding
 
 ### Requirements
 
