@@ -1,4 +1,7 @@
 # Purple Twilight
+
+![](https://img.shields.io/badge/AOM_listing_status-awaiting_review-yellow)
+
 A mod of the [Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/) for Firefox by [breuxi](https://addons.mozilla.org/en-US/firefox/user/16198217/) - for the same pretty colours, but without the twinkling stars for a more minimal look.
 
 ## Setup
