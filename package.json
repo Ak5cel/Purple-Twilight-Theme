@@ -1,0 +1,21 @@
+{
+  "name": "purple-twilight-theme",
+  "version": "1.0.0",
+  "description": "A mod of the Purple Night Theme for Firefox - same pretty colours, without the twinkling stars",
+  "scripts": {
+    "dev": "web-ext run",
+    "build": "web-ext build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firefox",
+    "theme",
+    "purple",
+    "twilight"
+  ],
+  "author": "Breuxi & Chu & Ak5cel",
+  "license": "ISC",
+  "devDependencies": {
+    "web-ext": "^7.8.0"
+  }
+}
