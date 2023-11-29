@@ -14,7 +14,7 @@
     "twilight"
   ],
   "author": "Breuxi & Chu & Ak5cel",
-  "license": "ISC",
+  "license": "Creative Commons Attribution-NonCommercial-Share Alike 3.0",
   "devDependencies": {
     "web-ext": "^7.8.0"
   }
